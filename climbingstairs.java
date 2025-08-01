@@ -1,5 +1,4 @@
 import java.util.*;
-
 class Solution {	
 	static int ClimbStairs(int n){
 		if (n <= 2)
